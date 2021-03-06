@@ -1,0 +1,78 @@
+.base{
+    width: 400px;
+    height:400px;
+    background-color: black;
+}
+.circle{
+    width: 398px;
+    height: 398px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 50%;
+}
+.Twelve{
+    text-align: center;
+    font-size: 30px;
+}
+.Six{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 82%;
+}
+.ninethree{
+    margin-top: -55%;
+    font-size: 30px;
+    padding: 3%;
+}
+#first{
+    width: 80%;
+}
+#second{
+    float: right;
+}
+/*.Three{
+    font-size: 30px;
+    margin-left:92%;
+    margin-top: 35%;
+}
+.Nine{
+    font-size:30px;
+    margin-top:-53%;
+    margin-left: 3%;
+
+}*/
+.dot{
+    margin: auto;
+    margin-top: -6%;
+    background-color: black;
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
+.hour{
+    width:8px;
+    background-color: red;
+    height: 25%;
+    margin-left: 49%;
+    margin-top: -48%;
+}
+.minute{
+    width: 5px;
+    background-color: red;
+    height: 35%;
+    margin-left: 49%;
+    margin-top: -60%;
+}
+.second{
+    width: 2px;
+    background-color: blue;
+    height: 42%;
+    margin-top: -38%;
+    margin-left: 59%;
+    transform: rotate(30deg);
+
+}
+
+.mark{
+    font-size: large;
+}
